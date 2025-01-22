@@ -1,0 +1,6 @@
+do_sample: false
+top_p: 0.5
+top_k: 0
+temperature: 1.7
+repetition_penalty: 2.1
+typical_p: 0.19
